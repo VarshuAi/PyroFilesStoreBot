@@ -1,50 +1,73 @@
-# PyroFilesStoreBot
-This is Telegram Parmanent Files Store Bot by [@AbirHasan2005](https://github.com/AbirHasan2005).
+<!-- ========================================================================= -->
+<!--                        PYROFILESSTOREBOT — README                            -->
+<!--       Cyberpunk Premium Theme  |  Animated SVGs  |  Live Badges          -->
+<!-- ========================================================================= -->
 
-* **Language:** [Python3](https://www.python.org)
-* **Library:** [Pyrogram](https://docs.pyrogram.org)
+<div align="center">
 
-### Features:
-- In PM Just Forward or Send any file it will save on Database & give you the Access Link.
-- In Channel Add Bot as Admin with Edit Rights. When you will send any file or media in Channel it will Edit the Broadcast Message with Saved Link Button.
-- You can also Broadcast anythings via this Bot.
-- You can also Do Force Sub to a Channel to allow access the Bot.
-- Save Multiple Files in Same Link. (Batch)
+<!-- ============================== BANNER ============================== -->
 
-### Demo Bot:
-<a href="https://t.me/MediasStoreBot"><img src="https://img.shields.io/badge/Demo-Telegram%20Bot-blue.svg?logo=telegram"></a>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,40:00331A,80:001100,100:000000&height=180&section=header&text=PyroFilesStoreBot&fontSize=48&fontColor=00FF88&fontAlignY=38&animation=fadeIn" width="100%"/>
 
-## Configs:
-- `API_ID` - Get this from [@TeleORG_Bot](https://t.me/TeleORG_Bot)
-- `API_HASH` - Get this from [@TeleORG_Bot](https://t.me/TeleORG_Bot)
-- `BOT_TOKEN` - Get this from [@BotFather](https://t.me/BotFather)
-- `BOT_USERNAME` - You Bot Username. *(Without [@])*
-- `DB_CHANNEL` - A Telegram Channel ID.
-	- Make a Channel for Storing Files. We will use that as Database. Channel must be Private! Else you will be Copyright by [Telegram DMCA](https://t.me/dmcatelegram)!
-- `BOT_OWNER` - Bot Owner UserID
-	- Put your Telegram UserID for doing Broadcast.
-- `DATABASE_URL` - MongoDB Database URI
-	- This for Saving UserIDs. When you will Broadcast, bot will forward the Broadcast to DB Users.
-- `UPDATES_CHANNEL` - Force Sub Channel ID *(Optional)*
-	- ID of a Channel which you want to do Force Sub to use the bot. 
-- `LOG_CHANNEL` - Logs Channel ID
-	- This for some getting user info. If any new User added to DB, Bot will send Log to that Logs Channel. You can use same DB Channel ID.
-- `FORWARD_AS_COPY` - Value should be `True` or `False` *(Optional)*
-	- If `True` all messages will be forwarder *As Copy*. If `False` all messages will be forwarder with Forward Tag.
-- `BROADCAST_AS_COPY` - Value should be `True` or `False` *(Optional)*
-  	- Broadcast with Forward Tag or as Copy.*(Without Forward Tag)*
-- `BANNED_USERS` - Banned unwanted members
-         - Put all banned user IDs & Separate with space.
-- `BANNED_CHAT_IDS` - All Banned Channel IDs *(Optional)*
-	- Put all banned channel IDs & Separate with space.
+<!-- ============================== TYPING SVG ============================== -->
 
-### Video Tutorial:
-[![YouTube](https://img.shields.io/badge/YouTube-Video%20Tutorial-red?logo=youtube)](https://youtu.be/hHu2RaePhwI)
+<br/>
 
-### Deploy Now:
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AbirHasan2005/PyroFilesStoreBot)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier%20New&weight=500&size=22&duration=3500&pause=800&color=00FF88&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=80&lines=%3E%20Welcome%20to%20PyroFilesStoreBot%20%F0%9F%9A%80;%3E%20Built%20using%20Code%20%7C%20Optimized%20%26%20Secure;%3E%20This%20is%20Telegram%20Files%20Store%20Bot%20by%20%40Abi...)](https://github.com/VarshuAi/PyroFilesStoreBot)
 
-## Commands:
+<br/>
+
+![Version](https://img.shields.io/badge/Version-1.0-00FF88?style=for-the-badge&logo=github&logoColor=black)
+![Language](https://img.shields.io/badge/Code-Tech-00CC66?style=for-the-badge&logo=code&logoColor=black)
+![Status](https://img.shields.io/badge/Status-Active-14354C?style=for-the-badge&logo=git&logoColor=white)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:00331A,80:001100,100:000000&height=60&section=header&text=&fontSize=0" width="100%"/>
+
+</div>
+
+<!-- ============================== ABOUT ============================== -->
+
+<h2>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<samp>&nbsp;ABOUT</samp>
+</h2>
+
+```yaml
+name: PyroFilesStoreBot
+version: 1.0
+type: Repository
+author: VarshuAi
+description: >
+  This is Telegram Files Store Bot by @AbirHasan2005
+primary_tech: Code
+```
+
+<!-- ============================== CENTRAL GRAPHIC ============================== -->
+
+<div align="center">
+<br>
+[![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=VarshuAi&repo=PyroFilesStoreBot&theme=dark&bg_color=000000&title_color=00FF88&icon_color=00FF88&text_color=00CC66)](https://github.com/VarshuAi/PyroFilesStoreBot)
+<br>
+</div>
+
+<!-- ============================== FEATURES ============================== -->
+
+<h2>
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28">
+<samp>&nbsp;FEATURES</samp>
+</h2>
+
+- ⚡ **Optimized Operations** — Engineered for performance and stability.
+- 🎨 **Sleek Interface & Theme** — Built using VarshuAi standard aesthetics.
+- 🔒 **Zero-Dependency Core** — Minimal setup complexity.
+
+<!-- ============================== COMMANDS ============================== -->
+
+<h2>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28">
+<samp>&nbsp;COMMANDS & USAGE</samp>
+</h2>
+
 ```
 start - start the bot
 clear_batch - Clear User Batch Files
@@ -71,3 +94,69 @@ banned_users - Get All Banned Users [Owner Only]
 <p align="left">
 <a href="https://instagram.com/AbirHasan2005"><img src="https://img.shields.io/badge/Instagram-Follow%20on%20Instagram-important.svg?logo=instagram"></a>
 </p>
+
+<!-- ============================== TECH STACK ============================== -->
+
+<h2>
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28">
+<samp>&nbsp;TECH STACK</samp>
+</h2>
+
+<div align="center">
+
+#### `>> SYSTEM INVENTORY`
+![Code](https://img.shields.io/badge/Code-Primary_Language-00FF88?style=for-the-badge&logoColor=black)
+![Git](https://img.shields.io/badge/Git-VCS-00CC66?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+<!-- ============================== SETUP ============================== -->
+
+<h2>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28">
+<samp>&nbsp;SETUP</samp>
+</h2>
+
+```bash
+# 1. Clone repository remote
+git clone https://github.com/VarshuAi/PyroFilesStoreBot.git
+cd PyroFilesStoreBot
+
+# 2. Check technical prerequsites
+# Ensure runtime matches requirements (Code)
+```
+
+<!-- ============================== STRUCTURE ============================== -->
+
+<h2>
+<samp>&nbsp;📁 STRUCTURE</samp>
+</h2>
+
+```
+PyroFilesStoreBot/
+├── src/             # Source code entrypoints
+├── docs/            # Project documentation files
+├── README.md        # Interactive readme sheet
+└── LICENSE          # Permission details
+```
+
+<!-- ============================== FOOTER ============================== -->
+
+<div align="center">
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,40:00331A,80:001100,100:000000&height=80&section=footer&text=&fontSize=0" width="100%"/>
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier%20New&size=14&duration=4000&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Made+with+%E2%9D%A4%EF%B8%8F+by+VarshuAi;Build+Fast.+Ship+Secure.+Scale+Infinite.)](https://github.com/VarshuAi)
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/VarshuAi-Profile-00FF88?style=for-the-badge&logo=github&logoColor=black)](https://github.com/VarshuAi)
+[![Repo](https://img.shields.io/badge/PyroFilesStoreBot-Repo-00CC66?style=for-the-badge&logo=github&logoColor=black)](https://github.com/VarshuAi/PyroFilesStoreBot)
+
+<br/>
+
+</div>
