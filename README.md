@@ -13,13 +13,13 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier%20New&weight=500&size=22&duration=3500&pause=800&color=00FF88&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=80&lines=%3E%20Welcome%20to%20PyroFilesStoreBot%20%F0%9F%9A%80;%3E%20Built%20using%20Code%20%7C%20Optimized%20%26%20Secure;%3E%20This%20is%20Telegram%20Files%20Store%20Bot%20by%20%40Abi...)](https://github.com/VarshuAi/PyroFilesStoreBot)
+<a href="https://github.com/VarshuAi/PyroFilesStoreBot"><img src="https://readme-typing-svg.demolab.com?font=Courier%20New&weight=500&size=22&duration=3500&pause=800&color=00FF88&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=80&lines=%3E%20Welcome%20to%20PyroFilesStoreBot%20%F0%9F%9A%80;%3E%20Built%20using%20Python%20%7C%20Optimized%20%26%20Secure;%3E%20This%20is%20Telegram%20Files%20Store%20Bot%20by%20%40Abi..." alt="Typing SVG"/></a>
 
 <br/>
 
-![Version](https://img.shields.io/badge/Version-1.0-00FF88?style=for-the-badge&logo=github&logoColor=black)
-![Language](https://img.shields.io/badge/Code-Tech-00CC66?style=for-the-badge&logo=code&logoColor=black)
-![Status](https://img.shields.io/badge/Status-Active-14354C?style=for-the-badge&logo=git&logoColor=white)
+<img src="https://img.shields.io/badge/Version-1.0-00FF88?style=for-the-badge&logo=github&logoColor=black" alt="Version"/>
+<img src="https://img.shields.io/badge/Python-Tech-00CC66?style=for-the-badge&logo=python&logoColor=black" alt="Language"/>
+<img src="https://img.shields.io/badge/Status-Active-14354C?style=for-the-badge&logo=git&logoColor=white" alt="Status"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:00331A,80:001100,100:000000&height=60&section=header&text=&fontSize=0" width="100%"/>
 
@@ -39,14 +39,14 @@ type: Repository
 author: VarshuAi
 description: >
   This is Telegram Files Store Bot by @AbirHasan2005
-primary_tech: Code
+primary_tech: Python
 ```
 
 <!-- ============================== CENTRAL GRAPHIC ============================== -->
 
 <div align="center">
 <br>
-[![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=VarshuAi&repo=PyroFilesStoreBot&theme=dark&bg_color=000000&title_color=00FF88&icon_color=00FF88&text_color=00CC66)](https://github.com/VarshuAi/PyroFilesStoreBot)
+<a href="https://github.com/VarshuAi/PyroFilesStoreBot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VarshuAi&repo=PyroFilesStoreBot&theme=dark&bg_color=000000&title_color=00FF88&icon_color=00FF88&text_color=00CC66" alt="Repo Stats"/></a>
 <br>
 </div>
 
@@ -68,32 +68,13 @@ primary_tech: Code
 <samp>&nbsp;COMMANDS & USAGE</samp>
 </h2>
 
+```bash
+# Setup virtual environment & run
+python -m venv venv
+source venv/bin/activate  # On Windows use: venv\Scripts\activate
+pip install -r requirements.txt
+python main.py
 ```
-start - start the bot
-clear_batch - Clear User Batch Files
-status - Show number of users in DB [Owner Only]
-broadcast - Broadcast replied message to DB Users [Owner Only]
-ban_user - [user_id] [ban_duration] [ban_reason] Ban Any User [Owner Only]
-unban_user - [user_id] Unban Any User [Owner Only]
-banned_users - Get All Banned Users [Owner Only]
-```
-
-### Support Group:
-<a href="https://t.me/JoinOT"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
-
-### Follow on:
-<p align="left">
-<a href="https://github.com/AbirHasan2005"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
-</p>
-<p align="left">
-<a href="https://twitter.com/AbirHasan2005"><img src="https://img.shields.io/badge/Twitter-Follow%20on%20Twitter-informational.svg?logo=twitter"></a>
-</p>
-<p align="left">
-<a href="https://facebook.com/AbirHasan2005"><img src="https://img.shields.io/badge/Facebook-Follow%20on%20Facebook-blue.svg?logo=facebook"></a>
-</p>
-<p align="left">
-<a href="https://instagram.com/AbirHasan2005"><img src="https://img.shields.io/badge/Instagram-Follow%20on%20Instagram-important.svg?logo=instagram"></a>
-</p>
 
 <!-- ============================== TECH STACK ============================== -->
 
@@ -105,7 +86,7 @@ banned_users - Get All Banned Users [Owner Only]
 <div align="center">
 
 #### `>> SYSTEM INVENTORY`
-![Code](https://img.shields.io/badge/Code-Primary_Language-00FF88?style=for-the-badge&logoColor=black)
+![Python](https://img.shields.io/badge/Python-Primary_Language-00FF88?style=for-the-badge&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-VCS-00CC66?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
@@ -123,7 +104,7 @@ git clone https://github.com/VarshuAi/PyroFilesStoreBot.git
 cd PyroFilesStoreBot
 
 # 2. Check technical prerequsites
-# Ensure runtime matches requirements (Code)
+# Ensure runtime matches requirements (Python)
 ```
 
 <!-- ============================== STRUCTURE ============================== -->
@@ -150,12 +131,12 @@ PyroFilesStoreBot/
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier%20New&size=14&duration=4000&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Made+with+%E2%9D%A4%EF%B8%8F+by+VarshuAi;Build+Fast.+Ship+Secure.+Scale+Infinite.)](https://github.com/VarshuAi)
+<a href="https://github.com/VarshuAi"><img src="https://readme-typing-svg.demolab.com?font=Courier%20New&size=14&duration=4000&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Made+with+%E2%9D%A4%EF%B8%8F+by+VarshuAi;Build+Fast.+Ship+Secure.+Scale+Infinite." alt="Typing SVG"/></a>
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/VarshuAi-Profile-00FF88?style=for-the-badge&logo=github&logoColor=black)](https://github.com/VarshuAi)
-[![Repo](https://img.shields.io/badge/PyroFilesStoreBot-Repo-00CC66?style=for-the-badge&logo=github&logoColor=black)](https://github.com/VarshuAi/PyroFilesStoreBot)
+<a href="https://github.com/VarshuAi"><img src="https://img.shields.io/badge/VarshuAi-Profile-00FF88?style=for-the-badge&logo=github&logoColor=black" alt="GitHub Profile"/></a>
+<a href="https://github.com/VarshuAi/PyroFilesStoreBot"><img src="https://img.shields.io/badge/PyroFilesStoreBot-Repo-00CC66?style=for-the-badge&logo=github&logoColor=black" alt="Repository"/></a>
 
 <br/>
 
