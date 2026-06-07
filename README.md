@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  This is Telegram Files Store Bot by @AbirHasan2005
+  name: PyroFilesStoreBot version: 1.0 type: Repository author: VarshuAi description: >   This is Telegram Files Store Bot by @AbirHasan2005 primary_tech: Python
 primary_tech: Python
 ```
 
